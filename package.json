@@ -1,0 +1,12 @@
+{
+  "name": "duration",
+  "version": "1.0.0",
+  "description": "Date wrapper class to simplify time definitions in your applications. This is mostly to save you writing some constants in your application.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Admiral-Leila/Duration.git",
+  "keywords": [],
+  "author": "Lunasphere Entertainment",
+  "license": "GPL-3.0"
+}
